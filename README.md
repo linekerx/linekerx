@@ -73,27 +73,31 @@ int main() {
 ### 🚀 Проекты
 
 <p align="center">
-  <a href="https://github.com/linekerx/deskroute">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=linekerx&repo=deskroute&theme=tokyonight&hide_border=true&title_color=FF7A1A&icon_color=659AD2" alt="DeskRoute">
-  </a>
+  <a href="https://github.com/linekerx/deskroute"><img src="assets/deskroute-card.svg" width="440" alt="DeskRoute"></a>
 </p>
 
-**[DeskRoute](https://github.com/linekerx/deskroute)** — VPN-клиент для Windows, Linux и Android на ядре Xray. Подписки, как в Happ, kill switch, совместимость с zapret и интерфейс в виде схемы метро, который перекрашивается целиком.
+**[DeskRoute](https://github.com/linekerx/deskroute)** — VPN-клиент для Windows, Linux и Android на ядре Xray. Подписки, как в Happ, kill switch, совместимость с zapret и интерфейс в виде схемы метро, который перекрашивается целиком. [Скачать](https://github.com/linekerx/deskroute/releases/latest)
 
 ### 📊 Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linekerx&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF7A1A&icon_color=659AD2&locale=ru" height="165" alt="статистика">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linekerx&layout=compact&theme=tokyonight&hide_border=true&title_color=FF7A1A&locale=ru" height="165" alt="языки">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="профиль">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="языки по репозиториям">
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="32%" alt="языки по коммитам">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="статистика">
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=linekerx&theme=tokyonight&hide_border=true&ring=FF7A1A&fire=FF7A1A&currStreakLabel=659AD2&locale=ru" alt="серия коммитов">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=linekerx&theme=tokyo-night&hide_border=true&color=659AD2&line=FF7A1A&point=FFFFFF&area=true" alt="активность">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake-light.svg">
+  <img alt="змейка ест коммиты" src="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg">
+</picture>
 
 ---
 
