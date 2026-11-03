@@ -94,9 +94,9 @@ int main() {
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake-light.svg?v=2">
-  <img alt="змейка ест коммиты" src="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg?v=2">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg">
+  <img alt="змейка ест коммиты" src="assets/snake.svg">
 </picture>
 
 ---
