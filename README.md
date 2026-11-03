@@ -73,7 +73,7 @@ int main() {
 ### 🚀 Проекты
 
 <p align="center">
-  <a href="https://github.com/linekerx/deskroute"><img src="assets/deskroute-card.svg" width="440" alt="DeskRoute"></a>
+  <a href="https://github.com/linekerx/deskroute"><img src="assets/deskroute-card.svg?v=2" width="440" alt="DeskRoute"></a>
 </p>
 
 **[DeskRoute](https://github.com/linekerx/deskroute)** — VPN-клиент для Windows, Linux и Android на ядре Xray. Подписки, как в Happ, kill switch, совместимость с zapret и интерфейс в виде схемы метро, который перекрашивается целиком. [Скачать](https://github.com/linekerx/deskroute/releases/latest)
@@ -94,9 +94,9 @@ int main() {
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake-light.svg">
-  <img alt="змейка ест коммиты" src="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linekerx/linekerx/output/snake-light.svg?v=2">
+  <img alt="змейка ест коммиты" src="https://raw.githubusercontent.com/linekerx/linekerx/output/snake.svg?v=2">
 </picture>
 
 ---
