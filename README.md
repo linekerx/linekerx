@@ -77,6 +77,11 @@ int main() {
 </p>
 
 **[DeskRoute](https://github.com/linekerx/deskroute)** — VPN-клиент для Windows, Linux и Android на ядре Xray. Подписки, как в Happ, kill switch, совместимость с zapret и интерфейс в виде схемы метро, который перекрашивается целиком. [Скачать](https://github.com/linekerx/deskroute/releases/latest)
+<p align="center">
+  <a href="https://github.com/linekerx/ZapretGUI"><img src="assets/zapretgui-card.svg" width="440" alt="ZapretGUI"></a>
+</p>
+
+**[ZapretGUI](https://github.com/linekerx/ZapretGUI)** — GUI для обхода блокировок Discord и YouTube с автоподбором стратегии по пингу. Основано на [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube). [Скачать](https://github.com/linekerx/ZapretGUI/releases/latest)
 
 ### 📊 Статистика
 
