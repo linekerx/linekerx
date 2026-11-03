@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FF7A1A&center=true&vCenter=true&width=620&lines=%23include+%3Cfreedom%3E;Undefined+behavior+%E2%80%94+%D1%8D%D1%82%D0%BE+%D1%81%D1%82%D0%B8%D0%BB%D1%8C+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8;Segmentation+fault+(core+dumped);template%3Ctypename+T%3E+T+coffee();Arch+btw" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FF7A1A&center=true&vCenter=true&width=620&lines=%23include+%3Cfreedom%3E;Undefined+behavior+%E2%80%94+%D1%8D%D1%82%D0%BE+%D1%81%D1%82%D0%B8%D0%BB%D1%8C+%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8;Segmentation+fault+(core+dumped);template%3Ctypename+T%3E+T+coffee();I+use+Arch+btw" alt="typing">
 </p>
 
 <p align="center">
