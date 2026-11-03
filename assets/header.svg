@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1022"/>
+      <stop offset="1" stop-color="#151d3d"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#00599c"/>
+      <stop offset="0.5" stop-color="#659ad2"/>
+      <stop offset="1" stop-color="#ff7a1a"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,monospace; }
+      .title { font-family: 'Segoe UI','Inter',Arial,sans-serif; font-weight: 800; }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .typed { animation: type 3.2s steps(27) 0.4s both; }
+      @keyframes type { from { width: 0; } to { width: 372px; } }
+      .pulse { animation: pulse 2.4s ease-out infinite; transform-origin: 700px 58px; }
+      @keyframes pulse { 0% { opacity: .8; transform: scale(1); } 100% { opacity: 0; transform: scale(2.2); } }
+      .dash { stroke-dasharray: 4 14; animation: dash 1.6s linear infinite; }
+      @keyframes dash { to { stroke-dashoffset: -36; } }
+    </style>
+    <clipPath id="typeclip"><rect class="typed" x="56" y="150" height="40" width="372"/></clipPath>
+  </defs>
+  <rect width="900" height="260" rx="22" fill="url(#bg)"/>
+  <!-- линия маршрута в духе DeskRoute -->
+  <path d="M40 222 H560 L620 162 H700 L760 102 H860" fill="none" stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".9"/>
+  <path d="M40 222 H560 L620 162 H700 L760 102 H860" fill="none" stroke="#fff" stroke-width="2.5" stroke-linecap="round" class="dash" opacity=".55"/>
+  <circle cx="40" cy="222" r="9" fill="#0b1022" stroke="#00599c" stroke-width="5"/>
+  <circle cx="620" cy="162" r="9" fill="#0b1022" stroke="#659ad2" stroke-width="5"/>
+  <circle cx="860" cy="102" r="9" fill="#0b1022" stroke="#ff7a1a" stroke-width="5"/>
+  <!-- значок C++ -->
+  <g transform="translate(660 8)">
+    <circle class="pulse" cx="40" cy="50" r="34" fill="none" stroke="#659ad2" stroke-width="2"/>
+    <polygon points="40,10 75,30 75,70 40,90 5,70 5,30" fill="#00599c"/>
+    <polygon points="40,10 75,30 75,70 40,90" fill="#004482"/>
+    <text x="40" y="60" text-anchor="middle" class="title" font-size="26" fill="#fff">C++</text>
+  </g>
+  <text x="56" y="92" class="title" font-size="54" fill="#eef1fa">linekerx</text>
+  <text x="58" y="126" class="mono" font-size="17" fill="#8d9bc4">// C++ enjoyer · systems · VPN · Android · Linux</text>
+  <g clip-path="url(#typeclip)">
+    <text x="58" y="178" class="mono" font-size="22" fill="#e8eefc"><tspan fill="#c678dd">std</tspan>::<tspan fill="#61afef">cout</tspan> &lt;&lt; <tspan fill="#98c379">"hello, world"</tspan>;</text>
+  </g>
+  <rect class="cursor" x="432" y="158" width="12" height="26" fill="#ff7a1a"/>
+</svg>
