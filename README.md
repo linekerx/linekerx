@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/linekerx"><img src="https://komarev.com/ghpvc/?username=linekerx&label=просмотры+профиля&color=00599C&style=for-the-badge" alt="просмотры"></a>
-  <a href="https://github.com/linekerx?tab=followers"><img src="https://img.shields.io/github/followers/linekerx?label=подписчики&style=for-the-badge&color=FF7A1A&logo=github" alt="подписчики"></a>
+  <a href="https://github.com/linekerx?tab=followers"><img src="https://img.shields.io/github/followers/linekerx?label=followers&style=for-the-badge&color=FF7A1A&logo=github" alt="подписчики"></a>
   <a href="https://github.com/linekerx/deskroute"><img src="https://img.shields.io/github/stars/linekerx/deskroute?label=DeskRoute&style=for-the-badge&color=659AD2&logo=starship&logoColor=white" alt="звёзды DeskRoute"></a>
 </p>
 
